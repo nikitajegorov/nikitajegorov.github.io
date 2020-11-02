@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5610722d-1ff9-4b3a-82fc-f32f54e42d5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-wcs-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,11 +44,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603973326374</updated>
-      <workItem from="1603973327386" duration="9000" />
+      <workItem from="1603973327386" duration="3206000" />
+      <workItem from="1604056247680" duration="382000" />
+      <workItem from="1604064496560" duration="1319000" />
+      <workItem from="1604074437048" duration="527000" />
+      <workItem from="1604074971066" duration="345000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3329" y="354" key="SettingsEditor" timestamp="1604069772989">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3385" y="328" key="SettingsEditor/2560.0.2560.1440/0.0.2560.1440@0.0.2560.1440" timestamp="1604056240269" />
+    <state x="3329" y="354" key="SettingsEditor/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1604069772989" />
+    <state x="3621" y="634" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604064605067">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3621" y="634" width="428" height="170" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1604064605067" />
   </component>
 </project>
